@@ -1,0 +1,7 @@
+aulia
+
+git clone https://github.com/ryanhs/uib-test1/
+git status
+git add .
+git commit - m "pesan"
+git push origin master
