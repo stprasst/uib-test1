@@ -1,9 +1,17 @@
 aulia
 
+URL:
 https://github.com/ryanhs/uib-test1/
 
-git clone https://github.com/ryanhs/uib-test1.git
-git status
-git add .
-git commit - m "pesan"
-git push origin master
+Git Bash
+1. git clone https://github.com/ryanhs/uib-test1.git
+2. git status
+3. git add .
+4. git commit - m "pesan"
+5. git push origin master
+
+Update Pull
+git pull origin master
+
+Misc
+git remote nama_branch
