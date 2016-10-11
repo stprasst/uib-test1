@@ -1,6 +1,8 @@
 aulia
 
-git clone https://github.com/ryanhs/uib-test1/
+https://github.com/ryanhs/uib-test1/
+
+git clone https://github.com/ryanhs/uib-test1.git
 git status
 git add .
 git commit - m "pesan"
